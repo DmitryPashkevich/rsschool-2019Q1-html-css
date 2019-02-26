@@ -1,2 +1,2 @@
-DmitryPashkevich
-HTML CSS Basics: https://www.codecademy.com/DmitryPashkevich#completed
+DmitryPashkevich  
+HTML CSS Basics: https://www.codecademy.com/users/DmitryPashkevich/achievements   
